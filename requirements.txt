@@ -1,0 +1,10 @@
+PyQt5>=5.15.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pyhwp>=0.1b12
+six>=1.10.0
+requests>=2.28.0
+reportlab>=3.6.0
+pyinstaller>=5.0.0
+chardet>=5.0.0
+pymupdf>=1.23.0
